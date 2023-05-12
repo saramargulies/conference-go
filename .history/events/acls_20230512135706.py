@@ -48,3 +48,4 @@ def get_weather_data(location):
         "description": parsed_json["weather"][0]["description"],
     }
     return weather
+
