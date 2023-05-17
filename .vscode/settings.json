@@ -4,6 +4,9 @@
   "python.linting.enabled": true,
   "editor.formatOnSave": true,
   "cSpell.words": [
-    "PEXELS"
+    "AMQP",
+    "fanout",
+    "PEXELS",
+    "rabbitmq"
   ]
 }
