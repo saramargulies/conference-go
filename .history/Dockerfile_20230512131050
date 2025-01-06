@@ -1,6 +1,0 @@
-FROM 
-RUN 
-WORKDIR 
-COPY 
-RUN 
-CMD ["node", "src/index.js"]
